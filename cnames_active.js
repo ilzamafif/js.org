@@ -2116,6 +2116,7 @@ var cnames_active = {
   "yusril": "yusrilhs.github.io", // noCF
   "yuye": "cyea.github.io",
   "yvm": "tophat.github.io/yvm",
+  "blogzam": "zam27.github.io/blogzam",
   "zaporizhzhia": "zaporizhzhiajs.github.io",
   "zea-cad": "zeainc.github.io/zea-cad",
   "zea-engine": "zeainc.github.io/zea-engine",
